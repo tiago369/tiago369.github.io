@@ -1,6 +1,10 @@
 ---
 layout: post
 title: ROS 2 Tooling
+image: /assets/img/blog/desfioslab/ros.png
+accent_image:
+  background: url('/assets/img/blog/desfioslab/ros.png') center/cover
+  overlay: true
 accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: false

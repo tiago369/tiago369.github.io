@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Desktop Monkey Assistant
+image: /assets/img/blog/bonzi-buddy/waving.png
+accent_image:
+  background: url('/assets/img/blog/bonzi-buddy/waving.png') center/cover
+  overlay: true
 accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: false

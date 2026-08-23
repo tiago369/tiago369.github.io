@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Cross-Engine Humanoid Benchmark
+image: /assets/img/blog/cross-engine-humanoid-benchmark/comparison_plots.png
+accent_image:
+  background: url('/assets/img/blog/cross-engine-humanoid-benchmark/comparison_plots.png') center/cover
+  overlay: true
 accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: false
