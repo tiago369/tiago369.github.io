@@ -62,6 +62,8 @@ menu:
     url:               /projects/
 #  - title:             Research Lines
 #    url:               /research-lines/
+  - title:             Papers
+    url:               /papers/
   - title:             Skills
     url:               /skills/
     
