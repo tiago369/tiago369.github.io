@@ -75,6 +75,32 @@ This page contains all the projects that I have made in recent years.
   </div>
 </div>
 
+# SoftRobots & SUBOT — SENAI CIMATEC
+
+<div class="project-grid">
+  <a class="project-card" href="https://www.youtube.com/watch?v=W8EC6pXF8m8">
+    <img class="thumb" src="../assets/img/blog/softrobots/teleoperated-prototype.png" alt="Teleoperated soft manipulator prototype">
+    <div class="body">
+      <h4>SoftRobots — Teleoperated Prototype</h4>
+      <p>Tendon-driven soft manipulator, teleoperated by hand controller.</p>
+    </div>
+  </a>
+  <a class="project-card" href="https://www.instagram.com/p/C217ewRAuA4/">
+    <img class="thumb" src="../assets/img/blog/softrobots/quadruped-manipulator.png" alt="Continuum manipulator mounted on a quadruped mobile base">
+    <div class="body">
+      <h4>SoftRobots — Quadruped Manipulator</h4>
+      <p>Continuum manipulator mounted on a quadruped mobile base.</p>
+    </div>
+  </a>
+  <a class="project-card" href="https://atarde.com.br/bahia/boge-2025-senai-investe-em-formacao-e-tecnologia-para-petroleo-e-gas-1329284">
+    <img class="thumb" src="../assets/img/blog/subot/subot-robot.png" alt="SUBOT autonomous inspection robot prototype">
+    <div class="body">
+      <h4>SUBOT Robot</h4>
+      <p>Autonomous localization and navigation prototype for oil & gas inspection, with EMBRAPII and SENAI CIMATEC.</p>
+    </div>
+  </a>
+</div>
+
 # Open Source
 
 A few things from my [GitHub](https://github.com/tiago369):
