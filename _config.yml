@@ -41,8 +41,8 @@ logo:                  /assets/img/Design.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Tiago> <Sant'Anna>
-  email:               <tiago.santanna@ieee.org>
+  name:                Tiago Sant'Anna
+  email:               tiago.santanna@ieee.org
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
