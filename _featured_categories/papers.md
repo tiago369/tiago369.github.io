@@ -29,19 +29,6 @@ Publications from my research work, mostly around soft robotics and ROS 2 toolin
   display: block;
   background: #1c1c1c;
 }
-.paper-card .thumb-icon {
-  width: 100%;
-  height: 180px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #1c1c1c;
-}
-.paper-card .thumb-icon svg {
-  width: 56px;
-  height: 56px;
-  opacity: 0.6;
-}
 .paper-card .body {
   padding: 0.9rem 1rem 1.1rem;
   flex: 1;
@@ -68,11 +55,47 @@ Publications from my research work, mostly around soft robotics and ROS 2 toolin
 <div class="paper-grid">
 
 <div class="paper-card">
+  <img class="thumb" src="../assets/img/blog/papers/fdm-pneumatic-actuators.png" alt="Evaluation of FDM-Printed Soft Pneumatic Actuators in TPU - paper first page">
+  <div class="body">
+    <h4>Evaluation of FDM-Printed Soft Pneumatic Actuators in TPU</h4>
+    <p class="meta">T. B. Sant'Anna, A. R. L. do Nascimento, C. E. C. S. de Almeida, R. S. de Santiago, L. C. da Silva — J. Bioeng. Tech. Health, 2025;8(2):163–168</p>
+    <p class="link"><a href="https://www.jbth.com.br/index.php/JBTH/article/view/482">Read paper →</a></p>
+  </div>
+</div>
+
+<div class="paper-card">
   <img class="thumb" src="../assets/img/blog/papers/pso-soft-manipulator.png" alt="Optimization of soft manipulator simulation using a particle swarm approach - paper first page">
   <div class="body">
     <h4>Optimization of soft manipulator simulation using a particle swarm approach</h4>
     <p class="meta">T. Sant'Anna, V. S. Matos, L. C. da Silva — XXV Congresso Brasileiro de Automática (CBA), 2024</p>
     <p class="link"><a href="https://doi.org/10.20906/CBA2024/4752">Read paper →</a></p>
+  </div>
+</div>
+
+<div class="paper-card">
+  <img class="thumb" src="../assets/img/blog/papers/rnn-soft-manipulator.png" alt="Recurrent neural networks for modeling soft manipulator in simulated and real environments - paper first page">
+  <div class="body">
+    <h4>Recurrent neural networks for modeling soft manipulator in simulated and real environments</h4>
+    <p class="meta">J. Mesquita da Silva, T. B. Sant'Anna, L. C. da Silva — XXV Congresso Brasileiro de Automática (CBA), 2024</p>
+    <p class="link"><a href="https://doi.org/10.20906/CBA2024/4383">Read paper →</a></p>
+  </div>
+</div>
+
+<div class="paper-card">
+  <img class="thumb" src="../assets/img/blog/papers/openloop-controller.png" alt="Open-loop Position Controller for Tendon-driven Soft Continuum Manipulators - paper first page">
+  <div class="body">
+    <h4>Open-loop Position Controller for Tendon-driven Soft Continuum Manipulators</h4>
+    <p class="meta">J. V. S. Mendes, T. B. Sant'Anna, J. V. D. Almeida, V. S. Matos, C. C. B. Viturino, L. C. da Silva — XXV Congresso Brasileiro de Automática (CBA), 2024</p>
+    <p class="link"><a href="https://doi.org/10.20906/CBA2024/4275">Read paper →</a></p>
+  </div>
+</div>
+
+<div class="paper-card">
+  <img class="thumb" src="../assets/img/blog/papers/biology-inspired-locomotion.png" alt="Biology-Inspired Innovations in Soft Robotics for Efficient Locomotion - paper first page">
+  <div class="body">
+    <h4>Biology-Inspired Innovations in Soft Robotics for Efficient Locomotion</h4>
+    <p class="meta">T. Sant'Anna, L. Silva — J. Bioeng. Tech. Health, 2024;7(2):218–220</p>
+    <p class="link"><a href="https://www.jbth.com.br/index.php/JBTH/article/view/400">Read paper →</a></p>
   </div>
 </div>
 
@@ -95,27 +118,14 @@ Publications from my research work, mostly around soft robotics and ROS 2 toolin
 </div>
 
 <div class="paper-card">
-  <div class="thumb-icon">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2h9l5 5v15H6z"/><path d="M15 2v5h5"/><path d="M9 13h6M9 17h6M9 9h2"/></svg>
-  </div>
-  <div class="body">
-    <h4>Recurrent neural networks for modeling soft manipulator in simulated and real environments</h4>
-    <p class="meta">SoftRobots project, SENAI CIMATEC</p>
-    <p class="link">Link pending</p>
-  </div>
-</div>
-
-<div class="paper-card">
-  <div class="thumb-icon">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2h9l5 5v15H6z"/><path d="M15 2v5h5"/><path d="M9 13h6M9 17h6M9 9h2"/></svg>
-  </div>
+  <img class="thumb" src="../assets/img/blog/papers/ethics-robotics.png" alt="Ethics Applied to Development in Robotics - paper first page">
   <div class="body">
     <h4>Ethics Applied to Development in Robotics</h4>
-    <p class="meta">SENAI CIMATEC</p>
-    <p class="link">Link pending</p>
+    <p class="meta">T. B. Sant'Anna, M. A. dos Reis, R. L. S. Monteiro — J. Bioeng. Tech. Health, 2022;5(4):316–322</p>
+    <p class="link"><a href="https://doi.org/10.34178/jbth.v5i4.257">Read paper →</a></p>
   </div>
 </div>
 
 </div>
 
-Full list also kept up to date on [LinkedIn](https://www.linkedin.com/in/tiago-sant-anna-860930225/).
+Full list also kept up to date on [LinkedIn](https://www.linkedin.com/in/tiago-sant-anna-860930225/details/publications/).
