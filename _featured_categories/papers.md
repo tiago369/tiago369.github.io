@@ -77,9 +77,7 @@ Publications from my research work, mostly around soft robotics and ROS 2 toolin
 </div>
 
 <div class="paper-card">
-  <div class="thumb-icon">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2h9l5 5v15H6z"/><path d="M15 2v5h5"/><path d="M9 13h6M9 17h6M9 9h2"/></svg>
-  </div>
+  <img class="thumb" src="../assets/img/blog/papers/fpga-uart.png" alt="Seamless Integration of ROS2 Topics and FPGA via UART - paper first page">
   <div class="body">
     <h4>Seamless Integration of ROS2 Topics and FPGA via UART: Developing an Easy Integration Layer</h4>
     <p class="meta">T. B. Sant'Anna, J. A. C. B. Oliveira, R. T. Lima — LARS-SBR-WRE, IEEE, 2023</p>
@@ -88,9 +86,7 @@ Publications from my research work, mostly around soft robotics and ROS 2 toolin
 </div>
 
 <div class="paper-card">
-  <div class="thumb-icon">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 2h9l5 5v15H6z"/><path d="M15 2v5h5"/><path d="M9 13h6M9 17h6M9 9h2"/></svg>
-  </div>
+  <img class="thumb" src="../assets/img/blog/papers/trajectory-controllers.png" alt="Comparative analysis in real environment of trajectory controllers on ROS2 - paper first page">
   <div class="body">
     <h4>Comparative analysis in real environment of trajectory controllers on ROS2</h4>
     <p class="meta">T. B. Sant'Anna, M. B. Argolo, R. T. Lima — LARS-SBR-WRE, IEEE, 2023, pp. 308–312</p>
