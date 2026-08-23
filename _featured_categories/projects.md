@@ -78,13 +78,13 @@ This page contains all the projects that I have made in recent years.
 # SoftRobots & SUBOT — SENAI CIMATEC
 
 <div class="project-grid">
-  <a class="project-card" href="https://www.youtube.com/watch?v=W8EC6pXF8m8">
+  <div class="project-card">
     <img class="thumb" src="../assets/img/blog/softrobots/teleoperated-prototype.png" alt="Teleoperated soft manipulator prototype">
     <div class="body">
       <h4>SoftRobots — Teleoperated Prototype</h4>
       <p>Tendon-driven soft manipulator, teleoperated by hand controller.</p>
     </div>
-  </a>
+  </div>
   <a class="project-card" href="https://www.instagram.com/p/C217ewRAuA4/">
     <img class="thumb" src="../assets/img/blog/softrobots/quadruped-manipulator.png" alt="Continuum manipulator mounted on a quadruped mobile base">
     <div class="body">
